@@ -25,6 +25,6 @@ I'm a Software Developer with more than 4 years developing solutions (Frontend a
 | **Other interests** | Poetry, Art, Music, Neuroscience | Biology, Psycologhy | Photography, Jazz |
 
 ## Social Networks 📱
-> [LinkedIn](https://www.linkedin.com/in/juan-esteban-patarroyo-61a566186)
-> [Juanes Dev](https://juanes-patarroyo.dev)
-> [Instagram](https://www.instagram.com/liebestraume_photos/)
+
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40em" align="center" alt="Follow JuanPatarroyo on LinkedIn" title="Follow JuanPatarroyo on LinkedIn"/>](https://www.linkedin.com/in/juan-esteban-patarroyo-61a566186)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/769px-Instagram-Icon.png" height="40em" align="center" alt="Follow liebestraume on Instagram" title="Follow liebestraume on Instagram"/>](https://www.instagram.com/liebestraume_photos/)
