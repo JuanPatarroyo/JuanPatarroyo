@@ -1,8 +1,15 @@
-# Hi! I'm Juan Esteban 🤓
-![version :03.Feb.2022](https://img.shields.io/badge/version-03.Feb.2022-informational)
-![profile count](https://komarev.com/ghpvc/?username=JuanPatarroyo&color=red)
+<div id="header" align="center">
+  <img src="https://c.tenor.com/a-TsAtfszc8AAAAC/homer-any.gif" width="300"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/juan-esteban-patarroyo-61a566186">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=your-github-JuanPatarroyo&style=flat-square&color=blue" alt=""/>
+</div>
 
-[![website](https://img.shields.io/badge/website-informational)](https://juanes-patarroyo.dev)
+# Hi! I'm Juan Esteban 🤓
+
 [![GitHub JuanPatarroyo](https://img.shields.io/github/followers/JuanPatarroyo?label=follow&style=social)](https://github.com/JuanPatarroyo)
 
 ## Abstract 😬
@@ -24,7 +31,8 @@ I'm a Software Developer with more than 4 years developing solutions (Frontend a
 | **Languages** | Spanish | English |  |
 | **Other interests** | Poetry, Art, Music, Neuroscience | Biology, Psycologhy | Photography, Jazz |
 
-## Social Networks 📱
+### :fire: My Stats :
 
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40em" align="center" alt="Follow JuanPatarroyo on LinkedIn" title="Follow JuanPatarroyo on LinkedIn"/>](https://www.linkedin.com/in/juan-esteban-patarroyo-61a566186)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/769px-Instagram-Icon.png" height="40em" align="center" alt="Follow liebestraume on Instagram" title="Follow liebestraume on Instagram"/>](https://www.instagram.com/liebestraume_photos/)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JuanPatarroyo&theme=radical&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPatarroyo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
