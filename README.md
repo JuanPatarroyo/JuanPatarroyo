@@ -13,7 +13,7 @@
 [![GitHub JuanPatarroyo](https://img.shields.io/github/followers/JuanPatarroyo?label=follow&style=social)](https://github.com/JuanPatarroyo)
 
 ## Abstract 😬
-I'm a Software Developer with more than 4 years developing solutions (Frontend and Backend) in Java, Javascript, PL/Sql. 🖥
+I'm a Software Developer with more than 5 years developing solutions (Frontend and Backend) in Java, Javascript, PL/Sql. 🖥
 - I’m currently working full-time as an Java Developer Engineer II at [Activos](https://activos.com.co). 💻
 - I’m currently learning a bit of psychology, biology and new technologies such Go and React. 📚
 - I'm a passionate to the culture and the history, I created a cultural group called "Los Tertulianos". 🎨
