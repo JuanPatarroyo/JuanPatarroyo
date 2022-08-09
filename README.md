@@ -23,10 +23,10 @@ I'm a Software Developer with more than 4 years developing solutions (Frontend a
 | *Name \ Familiarity* | High | Medium | Low |
 | --------------- | --------------- | --------------- | ------------- |
 | **Languages(programming)** | Java, Pl/Sql | JS | Go, Python, C++ |
-| **Frameworks/Platforms** | Springboot, Struts, JSF, Primefaces, JQuery | Vue.js | React |
-| **Servers** | Weblogic, Tomcat |  |  |
+| **Frameworks/Platforms** | Springboot, Struts, JSF, Primefaces, JQuery | Vue.js, Angular, Hibernate | React |
+| **Servers** | Weblogic, Tomcat | IBM BUS |  |
 | **BD** | Oracle, MySql | SqlServer, DBMaria, Postgrest | NoSql |
-| **Skills** | Git, Maven, CSS, HTML5 | WebServices, JPA | Unity3D, microservices |
+| **Skills** | Git, Maven, CSS, HTML5, WebServices, JPA | Microservices | Unity3D |
 | **Interests** | Software Architecture, Artificial Intelligence (AI) | Data Science | Internet of Things |
 | **Languages** | Spanish | English |  |
 | **Other interests** | Poetry, Art, Music, Neuroscience | Biology, Psycologhy | Photography, Jazz |
