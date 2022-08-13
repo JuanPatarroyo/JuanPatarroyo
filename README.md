@@ -27,7 +27,7 @@ I'm a Software Developer with more than 4 years developing solutions (Frontend a
 | **Servers** | Weblogic, Tomcat | IBM BUS |  |
 | **BD** | Oracle, MySql | SqlServer, DBMaria, Postgrest | NoSql |
 | **Skills** | Git, Maven, CSS, HTML5, WebServices, JPA | Microservices | Unity3D |
-| **Interests** | Software Architecture, Artificial Intelligence (AI) | Data Science | Internet of Things |
+| **Interests** | Software Architecture, Pattern Design, Artificial Intelligence (AI) | Data Science | Internet of Things |
 | **Languages** | Spanish | English |  |
 | **Other interests** | Poetry, Art, Music, Neuroscience | Biology, Psycologhy | Photography, Jazz |
 
