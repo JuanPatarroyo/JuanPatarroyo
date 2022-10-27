@@ -5,7 +5,7 @@
 </div>
 
 # Hi! I'm Juan Esteban 🤓
-[![GitHub JuanPatarroyo](https://img.shields.io/github/followers/JuanPatarroyo?label=follow&style=social)](https://github.com/JuanPatarroyo)
+[![GitHub JuanPatarroyo](https://img.shields.io/github/followers/JuanPatarroyo?label=follow&style=social)](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FJuanPatarroyo)
 
 ## Abstract 😬
 I'm a Software Developer with more than 4 years developing solutions (Frontend and Backend) in Java, Javascript, PL/Sql. 🖥
