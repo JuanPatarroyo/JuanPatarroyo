@@ -36,6 +36,6 @@ I'm a Software Developer with more than 4 years developing solutions (Frontend a
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JuanPatarroyo&theme=radical&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPatarroyo&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPatarroyo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanpatarroyo&show_icons=true&locale=en" alt="juanpatarroyo" /></p>
