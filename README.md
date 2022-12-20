@@ -27,7 +27,7 @@ I'm a Software Developer with more than 4 years developing solutions (Frontend a
 | **Frameworks/Platforms BackEnd** | Springboot, Struts, JSF, EJB, JAX-WS | Hibernate, JPA |  |
 | **Servers** | Weblogic, Tomcat | IBM Integration Toolkit |  |
 | **BD** | Oracle, MySql | SqlServer, DBMaria, Postgrest | NoSql |
-| **Skills** | Primefaces, Git, Maven, CSS, HTML5, WebServices, JPA | Microservices | Unity3D |
+| **Skills** | Primefaces, Git, Maven, CSS, HTML5, WebServices, JPA | Gradle, Microservices | Unity3D |
 | **Interests** | Software Architecture, Pattern Design, Artificial Intelligence (AI) | Data Science | Internet of Things |
 | **Languages** | Spanish | English |  |
 | **Other interests** | Poetry, Art, Music, Neuroscience | Biology, Psycologhy | Photography, Jazz |
