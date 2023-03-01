@@ -8,7 +8,7 @@
 [![GitHub JuanPatarroyo](https://img.shields.io/github/followers/JuanPatarroyo?label=follow&style=social)](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FJuanPatarroyo)
 
 ## Abstract 😬
-I'm a Software Developer with more than 4 years developing solutions (Frontend and Backend) in Java, Javascript, PL/Sql. 🖥
+I'm a Software Developer with more than 5 years developing solutions (Frontend and Backend) in Java, Javascript, PL/Sql. 🖥
 - I’m currently working full-time as an Java Developer Engineer II at [Activos](https://activos.com.co). 💻
 - I’m currently learning a bit of psychology, biology and new technologies such Go and React. 📚
 - I'm a passionate to the culture and the history, I created a cultural group called "Los Tertulianos". 🎨
@@ -24,7 +24,7 @@ I'm a Software Developer with more than 4 years developing solutions (Frontend a
 | --------------- | --------------- | --------------- | ------------- |
 | **Languages(programming)** | Java, Pl/Sql, JS | TypeScript | Python, Go, C++ |
 | **Frameworks/Platforms FrontEnd** | JQuery, Angular | Vue.js | React |
-| **Frameworks/Platforms BackEnd** | Springboot, Struts, JSF, EJB, JAX-WS | Hibernate, JPA |  |
+| **Frameworks/Platforms BackEnd** | Springboot, Struts, JSF, EJB, JAX-WS, JAX-RS | Hibernate, JPA |  |
 | **Servers** | Weblogic, Tomcat | IBM Integration Toolkit |  |
 | **BD** | Oracle, MySql | SqlServer, DBMaria, Postgrest | NoSql |
 | **Skills** | Primefaces, Git, Maven, CSS, HTML5, WebServices, JPA | Gradle, Microservices | Unity3D |
