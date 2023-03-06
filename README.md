@@ -32,7 +32,7 @@ I'm a Software Developer with more than 5 years developing solutions (Frontend a
 | **Languages** | Spanish | English |  |
 | **Other interests** | Poetry, Art, Music, Neuroscience | Biology, Psycologhy | Photography, Jazz |
 
-### :fire: My Stats :
+### :fire: My Stats : 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JuanPatarroyo&theme=radical&background=000000)](https://git.io/streak-stats)
 
