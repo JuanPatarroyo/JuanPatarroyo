@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://c.tenor.com/a-TsAtfszc8AAAAC/homer-any.gif" width="300"/>
   
-  <img src="https://komarev.com/ghpvc/?username=your-github-JuanPatarroyo&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=your-github-JuanPatarroyo&style=flat-square&color=blue" alt=""/> 
 </div>
 
 # Hi! I'm Juan Esteban 🤓
