@@ -23,7 +23,7 @@ I'm a Software Developer with more than 5 years developing solutions (Frontend a
 | *Name \ Familiarity* | High | Medium | Low |
 | --------------- | --------------- | --------------- | ------------- |
 | **Languages(programming)** | Java, Pl/Sql, TypeScript | JS | Python, Go, C++ |
-| **Frameworks/Platforms FrontEnd** | JQuery, Angular | Vue.js | React |
+| **Frameworks/Platforms FrontEnd** | Angular | React, Vue.js |  |
 | **Frameworks/Platforms BackEnd** | Springboot, Struts, JSF, EJB, JAX-WS, JAX-RS | Hibernate, JPA |  |
 | **Servers** | Weblogic, Tomcat | IBM Integration Toolkit |  |
 | **BD** | Oracle, MySql | SqlServer, DBMaria, Postgrest | NoSql |
